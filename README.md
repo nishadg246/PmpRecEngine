@@ -1,8 +1,8 @@
 For each App,PII pair we evaluate the "decision importance score" as such:
 
-A = # of Allows
-D = # of Denies
-F = # of Fakes
+A = # of Allows \n
+D = # of Denies \n
+F = # of Fakes \n
 
 (A - (D + F)) / (A + D + F)
 
